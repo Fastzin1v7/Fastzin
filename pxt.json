@@ -1,0 +1,31 @@
+{
+    "name": "Fastzin",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.3",
+        "tag": "v2.0.3",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/20acea2a251df78bdb42ba349f529382275fe1bf",
+        "target": "7.0.57",
+        "pxt": "5.15.10",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
